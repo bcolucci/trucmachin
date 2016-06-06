@@ -7,7 +7,7 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "start": "node node_modules/http-server/bin/http-server public/"
+    "start": "node node_modules/http-server/bin/http-server lib/"
   },
   "repository": {
     "type": "git",
