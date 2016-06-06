@@ -1,0 +1,15 @@
+{
+  "name": "rcb",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "bacon": "^0.7.84",
+    "jquery": "^2.2.4",
+    "immutable": "^3.8.1",
+    "ramda": "^0.21.0"
+  }
+}

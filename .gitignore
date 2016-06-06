@@ -1,0 +1,5 @@
+node_modules/
+public/immutable/
+public/jquery/
+public/bacon/
+npm-debug.log

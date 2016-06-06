@@ -1,0 +1,23 @@
+{
+  "name": "trucmachin",
+  "version": "0.0.1",
+  "main": "public/trucmachin/js/engine.js",
+  "author": "Brice Colucci <brice.colucci@gmail.com>",
+  "homepage": "https://github.com/bcolucci/trucmachin",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/http-server/bin/http-server public/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bcolucci/trucmachin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bcolucci/trucmachin/issues"
+  },
+  "dependencies": {
+    "http-server": "^0.9.0",
+    "local-web-server": "^1.2.5"
+  }
+}
