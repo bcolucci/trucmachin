@@ -1,4 +1,5 @@
 node_modules/
+public/ramda
 public/immutable/
 public/jquery/
 public/bacon/
